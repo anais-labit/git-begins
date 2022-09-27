@@ -1,9 +1,13 @@
-Cloner :
+Cloner (depuis le dossier GIT local)  :
 
 	git clone https://github.com/anais-labit/git-begins.git
 
-Push :
+Push (depuis le dossier du repo local) :
 
 	1. git add file_name
 	2. git commit -m "commentaire"
 	3. git push origin main
+
+Pull (depuis le dossier du repo local) :
+
+	git pull

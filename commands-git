@@ -1,4 +1,4 @@
-Cloner (depuis le dossier GIT local)  :
+Clone (depuis le dossier GIT local)  :
 
 	git clone https://github.com/anais-labit/git-begins.git
 
@@ -11,3 +11,14 @@ Push (depuis le dossier du repo local) :
 Pull (depuis le dossier du repo local) :
 
 	git pull
+
+Create a branch :
+
+	anais@ubuntanais:~/git/git-begins$ git branch add-create-branch-command
+	pour vérifier qu’elle a été créée : anais@ubuntanais:~/git/git-begins$ git branch
+
+Changer de branche :
+	
+	anais@ubuntanais:~/git/git-begins$ git checkout add-create-branch-command
+
+	
